@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tsirimaholy
-- 👀 I’m interested in both cybersecurity and Software development
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in both Cybersecurity and Software development
+- 🌱 I’m currently learning Django and USB forensinc
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
