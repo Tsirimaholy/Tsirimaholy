@@ -7,7 +7,7 @@
 - 📫 How to reach me:
   - tsirimaholy.h@gmail.com
   - [Linkedin Profile](www.linkedin.com/in/tsirimaholy)
-  - [Bluesky profile][https://link-url-here.org](https://bsky.app/profile/tsirimaholy.bsky.social)
+  - [Bluesky profile](https://bsky.app/profile/tsirimaholy.bsky.social)
 
 <!---
 Tsirimaholy/Tsirimaholy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
